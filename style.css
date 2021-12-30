@@ -77,7 +77,7 @@ margin-right:10px;}
   transition: all 0.4s ease;
 }
 .navbar .menu a:hover{
-  color: platinum;
+  color: #F2A122;
 }
 nav.sticky .menu a{
   color: #FFF;
