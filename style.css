@@ -521,7 +521,7 @@ footer .text span a:hover{
   width: calc(100% - 10px);
 }
   .skills p{
-  display:none;
+  opacity:0;
 }
 }
 
