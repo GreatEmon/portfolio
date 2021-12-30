@@ -65,7 +65,7 @@ nav .navbar .menu li{
   list-style: none;
   margin: 0 8px;
 }
-nav .navbar .menu li:last-child{
+nav .navbar .menu li::last-child{
 margin-right:10px;}
 
 .navbar .menu a{
@@ -83,7 +83,7 @@ nav.sticky .menu a{
   color: #FFF;
 }
 nav.sticky .menu a:hover{
-  color: #0E2431;
+  color: #F2A122;
 }
 .navbar .media-icons a{
   color: #4070f4;
