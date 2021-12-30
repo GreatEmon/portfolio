@@ -59,6 +59,7 @@ nav .navbar .menu{
   display: flex;
   position: relative;
   justify-content:center;
+  margin-top:10px;
 }
 nav .navbar .menu li{
   list-style: none;
