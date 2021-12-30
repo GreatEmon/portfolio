@@ -43,6 +43,7 @@ nav .navbar{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  justify-content:center;
   margin: auto;
 }
 nav .navbar .logo a{
