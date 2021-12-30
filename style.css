@@ -59,14 +59,14 @@ nav .navbar .menu{
   display: flex;
   position: relative;
   justify-content:center;
-  margin-top:20px;
+
 }
 nav .navbar .menu li{
   list-style: none;
   margin: 0 8px;
 }
-nav .navbar .menu li::last-child{
-margin-right:10px;}
+
+
 
 .navbar .menu a{
   text-decoration: none;
@@ -519,6 +519,9 @@ footer .text span a:hover{
 }
 .skills-details .box{
   width: calc(100% - 10px);
+}
+  .skills p{
+  display:none;
 }
 }
 
