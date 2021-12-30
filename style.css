@@ -238,7 +238,7 @@ section  .topic{
   font-weight: 500;
   margin-bottom:10px;
 }
-.about-details .right p,.project p,.contact p .skills p{
+.about-details .right p,.project p,.contact p ,.skills p{
   text-align: justify;
   color: #848482;
 }
